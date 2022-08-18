@@ -1,40 +1,29 @@
-- 👋 Hi, I’m Dinesh Tulshiram Ahire
-- 👀 I’m interested in Learning new things related to techologies.
-- 🌱 I’m currently learning as a Full Stack Web/Java Developer at Masai School.
-- 💞️ I’m a Java Backend Developer who fucuses on scure application with clean and efficient code.
+<h1 align="center">Hi 👋, I'm Dinesh Tulshiram Ahire</h1>
+<h3 align="center">Ambitious and adventurous aspiring Backend Developer with a specialization in Java, MySQL, RDBMS, Spring Boot and Rest API.</h3>
 
-## :link: Connect With Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dineshahire.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshahire123)
-<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
-Tech Stack 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshahire123&label=Profile%20views&color=0e75b6&style=flat" alt="dineshahire123" /> </p>
 
-JAVA | MYSQL | SPRING BOOT | JAVASCRIPT | HTML5 | CSS |
-<!-- 
-Interesting On My Project
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshahire123" alt="dineshahire123" /></a> </p>
 
-[![Lifestylestoreindia](https://img.shields.io/badge/LifestylestoreIndia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-lifestylestoreindia.netlify.app/) | [![Pluralsight](https://img.shields.io/badge/Pluralsight-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | [![Unsplash](https://img.shields.io/badge/Unsplash-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-pluralsight.netlify.app/) | Online Shopping Application Using Spring boot and Java
- -->
-#
-<p align="center">
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dineshahire123&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="dineshahire123" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshahire123&theme=highcontrast&hide_border=true" alt="dineshahire123" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshahire123&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="dineshahire123" />  -->
+- 🌱 I’m currently learning **Springboot**
 
-  ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshahire123&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dineshahire123&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshahire123&layout=compact&theme=dark)](https://github.com/dineshahire123/github-readme-stats)
+- 👨‍💻 All of my projects are available at [https://dineshahire.netlify.app/](https://dineshahire.netlify.app/)
 
+- 💬 Ask me about **Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS**
 
+- 📫 How to reach me **ahiredinesh2@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dineshahire123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshahire123" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshahire123&show_icons=true&locale=en&layout=compact" alt="dineshahire123" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshahire123&show_icons=true&locale=en" alt="dineshahire123" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshahire123&" alt="dineshahire123" /></p>
 
-<!-- - 📫 How to reach me ... -->
-
-<!---
-dineshahire123/dineshahire123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
