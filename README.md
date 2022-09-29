@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [https://dineshahire.netlify.app/](https://dineshahire.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dineshahire11.netlify.app/](https://dineshahire11.netlify.app/)
 
 - 💬 Ask me about **Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS**
 
