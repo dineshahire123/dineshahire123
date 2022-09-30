@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="400px" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="300px" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 
 
