@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Dinesh Tulshiram Ahire</h1>
+<h1 align="center">Hi 👋, I'm Dinesh Ahire</h1>
 <h3 align="center">Ambitious and adventurous aspiring Backend Developer with a specialization in Java, MySQL, RDBMS, Spring Boot and Rest API. Since childhood I was always keen on learning new things and thats why as a developer now I am always on the lookout for learning new and upcoming technologies which will help me grow myself as a developer.</h3>
 <img align="right" alt="Coding" width="399" src = "https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
