@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dineshahire11.netlify.app/](https://dineshahire11.netlify.app/)
 
-- 💬 Ask me about **Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS**
+- 💬 Ask me about **Java,Spring Framework,Spring Boot,Hibernate,SQL, HTML, CSS, Javascript, TypeScript **
 
 - 📫 How to reach me **ahiredinesh2@gmail.com**
 
