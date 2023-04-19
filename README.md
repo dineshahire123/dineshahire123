@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="500px" src="https://thumbs.gfycat.com/BelatedVeneratedKiskadee-max-1mb.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="450px" src="https://thumbs.gfycat.com/BelatedVeneratedKiskadee-max-1mb.gif">
 
 
 
