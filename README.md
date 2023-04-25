@@ -19,8 +19,8 @@
 
 - 📫 How to reach me **ahiredinesh2@gmail.com**
 
-- [LeetCode](https://leetcode.com/ahiredinesh2/)
-  ![](https://leetcard.jacoblin.cool/ahiredinesh2)
+<!-- - [LeetCode](https://leetcode.com/ahiredinesh2/)
+  ![](https://leetcard.jacoblin.cool/ahiredinesh2) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
