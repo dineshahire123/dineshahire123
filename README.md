@@ -19,6 +19,9 @@
 
 - 📫 How to reach me **ahiredinesh2@gmail.com**
 
+- [LeetCode](https://leetcode.com/ahiredinesh2/)
+  ![](https://leetcard.jacoblin.cool/ahiredinesh2)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://linkedin.com/in/dineshahire123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshahire123" height="30" width="40" /></a>
